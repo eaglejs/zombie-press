@@ -19,7 +19,7 @@ It's meant to be something you don't install on your machine so you do need to h
 
 ### You can modify the time!
 
-If you need to modify the time, modify it in the code, I could create a CLI for it, but i'm too lazy. Just update the 'period' variable with the time you want. (denoted in milliseconds).
+If you need to modify the time, modify it in the code, and follow step 2 again. I could create a CLI for it, but i'm too lazy. Just update the 'period' variable with the time you want. (denoted in milliseconds).
 
 ### Would you like to contribute?
 You can do just that? If you want to add a CLI into it. I'm all for it. Fork the repo, and make a pull request and i'll review it.
